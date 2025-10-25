@@ -7,11 +7,12 @@ After 12 years of research in the field of plasturgy, Mr. Mohamed Medhaffer deve
 
 ## Machine de Tri 
 
-
+During my internship, we developed an AI powered sorting system for Valbio’s recycling process. The system uses NIR sensors and machine learning algorithms to identify and classify different types of plastic waste. This improved the efficiency and accuracy of the sorting line, reducing manual labor and contamination in the input materials.
 
 ## Machine de filament
 
+we also worked on a filament production process that converts Valbio’s biodegradable granules into 3D printing filament.
 
 ## Site Vitrine + Chatbot
 
-https://valbio.osc.tn/
+I developed and deployed Valbio’s showcase website at https://valbio.osc.tn and integrated a conversational AI chatbot powered by RAG (Retrieval-Augmented Generation). The chatbot delivers instant, accurate responses about products, production processes, and sustainability initiatives, enhancing user engagement and automating customer support.
