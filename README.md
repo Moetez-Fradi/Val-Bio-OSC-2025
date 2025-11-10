@@ -7,7 +7,7 @@ After 12 years of research in the field of plasturgy, Mr. Mohamed Medhaffer deve
 
 ## Machine de Tri 
 
-During my internship, we developed an AI powered sorting system for Valbio’s recycling process. The system uses NIR sensors and machine learning algorithms to identify and classify different types of plastic waste. This improved the efficiency and accuracy of the sorting line, reducing manual labor and contamination in the input materials.
+During my internship, I developed an AI powered sorting system for Valbio’s recycling process, after collecting over 1000 samples from the startup's stock of plastic waste. The system uses NIR sensors and machine learning algorithms to identify and classify different types of plastic waste. This improved the efficiency and accuracy of the sorting line, reducing manual labor and contamination in the input materials.
 
 ## Machine de filament
 
